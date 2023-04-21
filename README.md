@@ -52,13 +52,14 @@ Cloning the repository:
 
 ### Running the project:
 1. Open Command Prompt 
-2. Compile the program: type `javac *.java`
-3. Run the program: 
+2. `cd` into the folder of the program you want to run (A1a or A1b)
+3. Compile the program: type `javac *.java`
+4. Run the program: 
    - A1a: type `java MainA1a`
    - A1b: type `java Main <argument>`
      - Pass 1 argument. Options (2): console or gui
-4. A window (or command prompt text) will appear with 5 options. 
-5. Press any number between 1-5 to use that feature.
+5. A window (or command prompt text) will appear with 5 options. 
+6. Press any number between 1-5 to use that feature.
 
 <br>
 
